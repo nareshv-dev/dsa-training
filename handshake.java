@@ -12,3 +12,4 @@ public class handshake {
         System.out.println(n * (n - 1) / 2);
     }
 }
+ 
