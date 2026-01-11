@@ -40,5 +40,7 @@ public class MeanMedianMode{
         System.out.printf("%.1f\n",mean);
         System.out.printf("%.1f\n",median);
         System.out.println(mode);
+
+        sc.close();
     }
 }

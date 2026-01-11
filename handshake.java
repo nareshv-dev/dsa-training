@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class handshake {
+public class Handshake{
     public static void main(String[] args) {
     /* n --> Number of person
     At the annual meeting of Board of Directors of Acme Inc. 
@@ -10,6 +10,7 @@ public class handshake {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.println(n * (n - 1) / 2);
+        sc.close();
     }
 }
  
