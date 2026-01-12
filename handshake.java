@@ -10,6 +10,7 @@ public class Handshake{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.println(n * (n - 1) / 2);
+        
         sc.close();
     }
 }
