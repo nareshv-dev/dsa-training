@@ -1,5 +1,7 @@
 import java.util.*;
 public class PrimeOnlyList {
+    /*https://www.hackerrank.com/contests/2027-practice-gv-lab
+    /challenges/prime-only-list/problem */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
