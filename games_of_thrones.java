@@ -9,6 +9,7 @@ public class games_of_thrones {
         String s=sc.nextLine();
         String result=gameOfThrones(s);
         System.out.println(result);
+        sc.close();
     }
     public static String gameOfThrones(String s) {
     int[] arr=new int[26];
