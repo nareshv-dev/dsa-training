@@ -1,5 +1,9 @@
 import java.util.*;
 public class square_free {
+    /*A number is square-free if it is not divisible by any perfect square other than 1. 
+    For example, 70 is square-free because its divisors (2, 5, 7, 10, 14, 35, 70) do not contain any perfect squares other than 1.
+     However, 72 is not square-free because it is divisible by 4, 9, and 36, all of which are perfect squares. 
+     */
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
