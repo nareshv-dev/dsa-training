@@ -1,9 +1,9 @@
-import java.io.*;
 import java.util.*;
 
 public class distribute_book {
 
     public static void main(String[] args) {
+        /*https://www.hackerrank.com/contests/2027-practice-gv-lab/challenges/distribute-books-1/problem */
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
